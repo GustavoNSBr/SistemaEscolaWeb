@@ -1,0 +1,23 @@
+{
+  "name": "sistemaescolaweb",
+  "version": "1.0.0",
+  "description": "Sistema de Escola usando poo, programacao Web com Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoNSBr/SistemaEscolaWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoNSBr/SistemaEscolaWeb/issues"
+  },
+  "homepage": "https://github.com/GustavoNSBr/SistemaEscolaWeb#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mustache": "^4.2.0"
+  }
+}
